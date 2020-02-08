@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/codingNinjaApi/static/css/main.cce4dd3f.chunk.css",
+    "main.js": "/codingNinjaApi/static/js/main.8bdbfe19.chunk.js",
+    "main.js.map": "/codingNinjaApi/static/js/main.8bdbfe19.chunk.js.map",
+    "runtime-main.js": "/codingNinjaApi/static/js/runtime-main.218ea967.js",
+    "runtime-main.js.map": "/codingNinjaApi/static/js/runtime-main.218ea967.js.map",
+    "static/js/2.51c7ee2d.chunk.js": "/codingNinjaApi/static/js/2.51c7ee2d.chunk.js",
+    "static/js/2.51c7ee2d.chunk.js.map": "/codingNinjaApi/static/js/2.51c7ee2d.chunk.js.map",
+    "index.html": "/codingNinjaApi/index.html",
+    "precache-manifest.917cb9bdbb21aa8da8d8ac3112078ef0.js": "/codingNinjaApi/precache-manifest.917cb9bdbb21aa8da8d8ac3112078ef0.js",
+    "service-worker.js": "/codingNinjaApi/service-worker.js",
+    "static/css/main.cce4dd3f.chunk.css.map": "/codingNinjaApi/static/css/main.cce4dd3f.chunk.css.map",
+    "static/js/2.51c7ee2d.chunk.js.LICENSE.txt": "/codingNinjaApi/static/js/2.51c7ee2d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.218ea967.js",
+    "static/js/2.51c7ee2d.chunk.js",
+    "static/css/main.cce4dd3f.chunk.css",
+    "static/js/main.8bdbfe19.chunk.js"
+  ]
+}
